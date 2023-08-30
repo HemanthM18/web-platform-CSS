@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fascinate&family=Open+Sans:wght@700&family=Phudu&family=Poppins&family=Preahvihear&family=Raleway&family=Roboto+Slab:wght@400;800;900&family=Rubik+Iso&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+}
+#css{
+  font-variant : small-caps;
+  font-weight: 900;
+  font-style: italic;
+}
+p{
+  font-size: 15px;
+}
